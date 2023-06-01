@@ -1,0 +1,25 @@
+﻿Построение начато 01.06.2023 13:05:25.
+     1>Проект "C:\Users\ZaraSOFT\documents\visual studio 2012\Projects\SimpleDlg\SimpleDlg\SimpleDlg.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SimpleDlg.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt SimpleDlg.cpp SimpleDlgDoc.cpp SimpleDlgView.cpp
+         SimpleDlgDoc.cpp
+         SimpleDlg.cpp
+         Создание кода...
+         Пропуск... (изменения не обнаружены)
+         SimpleDlgView.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0419" /IDebug\ /nologo /fo"Debug\SimpleDlg.res" SimpleDlg.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ZaraSOFT\documents\visual studio 2012\Projects\SimpleDlg\Debug\SimpleDlg.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\ZaraSOFT\documents\visual studio 2012\Projects\SimpleDlg\Debug\SimpleDlg.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ZaraSOFT\documents\visual studio 2012\Projects\SimpleDlg\Debug\SimpleDlg.lib" /MACHINE:X86 Debug\SimpleDlg.res
+         Debug\MainFrm.obj
+         Debug\Options.obj
+         Debug\SimpleDlg.obj
+         Debug\SimpleDlgDoc.obj
+         Debug\SimpleDlgView.obj
+         Debug\stdafx.obj
+         SimpleDlg.vcxproj -> C:\Users\ZaraSOFT\documents\visual studio 2012\Projects\SimpleDlg\Debug\SimpleDlg.exe
+     1>Построение проекта "C:\Users\ZaraSOFT\documents\visual studio 2012\Projects\SimpleDlg\SimpleDlg\SimpleDlg.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.72
